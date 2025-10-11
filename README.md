@@ -8,3 +8,5 @@ Przewodnik dostępny jest na [stronie](https://filipkowalski10.github.io/ZPW_Fil
 
 Technologie
 - HTML, CSS, JAVASCRIPT, GITHUB, GIT
+
+Chcesz pomóc? Super!Zobacz zasady dotyczące współpracy w [CONTRIBUTING.md]
